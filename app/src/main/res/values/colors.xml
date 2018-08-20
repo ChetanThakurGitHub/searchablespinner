@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FCAC35</color>
+    <color name="colorPrimaryDark">#FCAC35</color>
+    <color name="colorAccent">#FCAC35</color>
+
+    <color name="darkgray">#323232</color>
+    <color name="lightgray">#828282</color>
+</resources>
